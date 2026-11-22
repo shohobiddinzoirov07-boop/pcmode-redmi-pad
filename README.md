@@ -2,9 +2,11 @@
 
 Redmi Pad 2 Pro uchun moslashtirilgan Xiaomi PC Mode planshetda ish stoli, Start menyusi va pastki panel orqali ilovalarni ochish imkonini beradi. Loyiha Xiaomi PC Mode 12.1.208.5 asosida tayyorlangan.
 
-**[📥 APK yuklab olish — Releases sahifasi](https://github.com/shohobiddinzoirov07-boop/pcmode-redmi-pad/releases)**
+**[📥 PC Mode v9 — APK faylini to‘g‘ridan-to‘g‘ri yuklab olish](https://github.com/shohobiddinzoirov07-boop/pcmode-redmi-pad/releases/download/v9.0/PCMode-v9-recovered-signed.apk)**
 
-APK fayllari e’lon qilingach, ularni relizning **Assets** bo‘limidan yuklab olishingiz mumkin.
+**[Barcha versiyalar — GitHub Releases](https://github.com/shohobiddinzoirov07-boop/pcmode-redmi-pad/releases)**
+
+> **Diqqat:** v9.0 relizi yaratildi, lekin APK fayli hali relizga biriktirilmagan. Yuqoridagi to‘g‘ridan-to‘g‘ri yuklash havolasi fayl yuklangandan keyin ishlaydi.
 
 ## Sinov holati
 
